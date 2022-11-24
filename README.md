@@ -1,2 +1,2 @@
 # hello-world
-None
+老传统了，用Python输出Hello，world
